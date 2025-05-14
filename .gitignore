@@ -1,1 +1,11 @@
-__pycache__/*
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+*.spec
+pip-log.txt
+.vscode/
+downloaded.zip
+*.pyc
